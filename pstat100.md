@@ -2,7 +2,7 @@
 title: "Airbnb Data Analysis"
 excerpt: "Analysis of Airbnb data using Python and Jupyter"
 tags: ["Statistics", "Python", "Data Analysis"]
-github_url: "https://github.com/chesney11/iot-notebook"
+github_url: "https://github.com/chesney11/iot-notebook](https://github.com/chesney11/pstat100project/blob/main/Final%20Project%20-%20Oakland%20Airbnb%20Price%20Analysis(noperms).ipynb"
 notebook_url: "[https://nbviewer.jupyter.org/github/chesney11/iot-notebook/blob/main/analysis.ipynb](https://nbviewer.jupyter.orggithub.com/chesney11/pstat100project/blob/main/Final%20Project%20-%20Oakland%20Airbnb%20Price%20Analysis(noperms).ipynb)"
 ---
 
