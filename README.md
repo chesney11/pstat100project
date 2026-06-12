@@ -7,7 +7,7 @@ review activity, and host listing count help explain differences in listing pric
 related to price can help identify broader patterns in short-term rental markets.
 
 ## Contents
-- `Oakland Airbnb Price Analysis(noperms).ipynb` - Main analysis notebook
+- `Final Project - Oakland Airbnb Price Analysis(noperms).ipynb` - Main analysis notebook
 
 ## Technologies
 - Python
